@@ -79,11 +79,6 @@ img {
   .center-text {
     text-align: center;
   }
-
-  .center-border {
-    text-align: center;
-    border-bottom: #4fa8b1;
-  }
   .float-left {
     float: left;
   }
